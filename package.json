@@ -1,0 +1,22 @@
+{
+  "name": "api_ler_comentarios_do_instagram_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndersonGabrielSilva/api_ler_comentarios_instagram_nodejs.git"
+  },
+  "author": "Anderson Gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndersonGabrielSilva/api_ler_comentarios_instagram_nodejs/issues"
+  },
+  "homepage": "https://github.com/AndersonGabrielSilva/api_ler_comentarios_instagram_nodejs#readme",
+  "dependencies": {
+    "puppeteer": "^5.4.1"
+  }
+}
